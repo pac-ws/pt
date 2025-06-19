@@ -19,7 +19,7 @@ Optimizer = "optimizer.pt"
 UseCommMaps = true
 
 [GNNBackBone]
-InputDim = 7
+InputDim = 34
 NumHops = 3
 NumLayers = 5
 LatentSize = 256
